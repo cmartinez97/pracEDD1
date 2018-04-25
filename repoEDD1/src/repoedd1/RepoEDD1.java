@@ -11,6 +11,8 @@ public class RepoEDD1 {
         for (int i = 0; i < 10; i++) {
             System.out.println("Hola Mundo!");
         }
+        System.out.println("Hello World!");
+        System.out.println("IDE Eclipse");
     }
 
 }
