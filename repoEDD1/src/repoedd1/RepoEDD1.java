@@ -16,6 +16,7 @@ public class RepoEDD1 {
         System.out.println("IDE Eclipse");
         System.out.println("Nueva l�nea escrita en Eclipse");
         System.out.println("Otra linea para que así no de error");
+        System.out.println("Hola");
     }
         
 }
