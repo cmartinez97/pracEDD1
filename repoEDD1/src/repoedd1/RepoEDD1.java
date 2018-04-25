@@ -12,6 +12,10 @@ public class RepoEDD1 {
             System.out.println("Hola Mundo!");
         }
         System.out.println("Línea Añadida desde NetBeans");
+        System.out.println("Hello World!");
+        System.out.println("IDE Eclipse");
+        System.out.println("Nueva l�nea escrita en Eclipse");
+        System.out.println("Otra linea para que así no de error");
     }
         
 }
